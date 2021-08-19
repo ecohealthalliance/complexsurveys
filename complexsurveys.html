@@ -157,6 +157,26 @@ library(survey)
     
 ---
 
+## The `svydesign()` function
+
+This is the main function that allows users to specify the sample design to R
+
+
+```r
+svydesign(
+  ids,                   ## cluster identifieres
+  probs = NULL,          ## cluster sampling probabilities
+  strata = NULL,         ## strata specification
+  variables = NULL,      
+  fpc = NULL,            ## finite population correction
+  data = NULL,           ## data
+  nest = FALSE,          ## is data nested within strata?
+  weights = NULL         ## sampling weights (alternative to probs)
+)
+```
+
+---
+
 ## Example of an analysis on a simple random sample
 
 
