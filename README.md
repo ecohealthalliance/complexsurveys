@@ -1,15 +1,14 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# Slide Deck for the Presentation on Complex Survey Sampling and Analysis for the Methods and Modelling Meetings (M3)
+# Slide Deck for the Presentation on Complex Survey Sampling and Analysis
 
 <!-- badges: start -->
 <!-- badges: end -->
 
 This repository contains the `Rmarkdown` script and related materials
 used to produce the slide deck for the presentation on Complex Survey
-Sampling and Analysis for EcoHealth Alliance’s **Methods and Modelling
-Meetings (M3)** on the 19th of August 2021.
+Sampling and Analysis on the 19th of August 2021.
 
 ## The slide deck
 
